@@ -2,8 +2,6 @@
 import multiprocessing
 import re
 import socket
-import json
-import urllib3
 
 
 class WebServer(object):
