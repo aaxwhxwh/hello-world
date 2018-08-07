@@ -1,2 +1,1 @@
-# hello-world
-the new repository
+This project is a web that work with mysql!
