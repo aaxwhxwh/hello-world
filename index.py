@@ -1,1 +1,4 @@
-print('hello world')
+def fn():
+	print('hello world')
+
+fn()
